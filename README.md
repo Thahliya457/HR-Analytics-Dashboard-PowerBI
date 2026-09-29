@@ -18,4 +18,4 @@ Power BI, DAX, Excel
 - Job satisfaction rating by job role
 
 ## Dashboard Preview
-![Dashboard](dashboard(2).png)
+![Dashboard](dashboard (2).png)
