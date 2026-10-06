@@ -26,3 +26,5 @@ Power BI, DAX, Excel
 - Research & Development accounts for 55.88% of attrition (133), followed by Sales (93).
 - The 26–35 age group has the most leavers (116 of 238).
 - Life Sciences (89) and Medical (63) are the education fields with the most attrition.
+
+  Portfolio: https://thahliya-portfolio.lovable.app
